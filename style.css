@@ -1,0 +1,59 @@
+.banner { 
+    background: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg) no-repeat center center;
+background-size: cover;
+padding-top: 20%;
+padding-bottom: 20%;
+color: aliceblue;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: aliceblue;
+    background-color: red;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+object-fit: cover;
+}
+
+.staff img {
+    width: 250px;
+    border: 10px solid;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+height: auto;
+max-height: 50px;
+}
+
+.kontak {
+    background:url(https://c0.wallpaperflare.com/preview/107/714/504/interior-office-workspace-computer.jpg)no-repeat center center ;
+background-size: cover;
+padding-bottom: 20%;
+padding-top: 20%;
+color: aliceblue;
+
+}
+.social-links .btn {
+    margin: 0 10px;
+  }
+  
